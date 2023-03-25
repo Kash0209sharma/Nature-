@@ -12,7 +12,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
     gap: 20px;
-    background: linear-gradient(to right,#041308,#0b3317);
+    background: linear-gradient(to right,#102716,#14993c);
 }
 .left-text{
     flex-basis: 30%;
