@@ -72,6 +72,7 @@ body{
 .box{
     grid-row: span 1;
     grid-column: span 3;
+    padding:10px;
 }
 .left-text{
     padding: 10px;
