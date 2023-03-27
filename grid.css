@@ -73,7 +73,7 @@ body{
     grid-row: span 1;
     grid-column: span 3;
     padding:10px;
-    border-radius:50%;
+    
 }
 .left-text{
     padding: 10px;
